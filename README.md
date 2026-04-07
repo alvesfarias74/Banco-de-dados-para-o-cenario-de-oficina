@@ -46,7 +46,7 @@ oficina-mecanica/
 
 ## Diagrama ER Reproduzido
 
-![Diagrama ER - E-Commerce Reproduzido](images/EER Diagram_Oficina.png)
+![Diagrama ER do Banco de Dados da Oficina Mecânica](images/EER%20Diagram_Oficina.png)
 
 
 ## 🔍 Queries Implementadas
