@@ -44,6 +44,10 @@ oficina-mecanica/
 ├── inserts.sql # Dados de exemplo
 └── queries.sql # Consultas SQL implementadas
 
+## Diagrama ER Reproduzido
+
+![Diagrama ER - E-Commerce Reproduzido](images/EER Diagram_Oficina.png)
+
 
 ## 🔍 Queries Implementadas
 
