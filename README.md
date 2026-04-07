@@ -38,13 +38,7 @@ Criar uma solução completa para gerenciamento de oficina, permitindo:
 - **Git & GitHub** - Versionamento e hospedagem
 
 ## 📁 Estrutura do Projeto
-oficina-mecanica/
-| ├── README.md
-| ├── schema.sql       # Criação do banco e tabelas
-| ├── inserts.sql      # Dados de exemplo
-| └── queries.sql      # Consultas SQL implementadas
-
-## Diagrama ER Reproduzido
+### Diagrama ER Reproduzido
 
 ![Diagrama ER do Banco de Dados da Oficina Mecânica](images/EER%20Diagram_Oficina.png)
 
